@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Too Scary Tech Shop",
+  "description": "Premium iPhone sales, professional repairs, and trade-in portal for Ghana. Features a sleek, high-conversion interface with eCommerce and service booking flows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
